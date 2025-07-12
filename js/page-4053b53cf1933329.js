@@ -106,7 +106,7 @@
                             children: [
                               (0, t.jsx)(n.default, {
                                 // Here to change the portifolio photo
-                                src: "../images/IMG_1229.JPG",
+                                src: "/images/IMG_1229.JPG",
                                 alt: "Nawaf Alharbi",
                                 width: 60,
                                 height: 60,
@@ -432,7 +432,7 @@
                                 period: "2021 - Present ",
                                 description:
                                   "Pursuing a Bachelor's degree in Information Systems, which has equipped me with key skills such as Python, SQL, Tableau.",
-                                logo: "../images/imamu.jpg",
+                                logo: "images/imamu.jpg",
                               },
                             ].map((e, a) =>
                               (0, t.jsxs)(
