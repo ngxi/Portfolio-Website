@@ -106,7 +106,7 @@
                             children: [
                               (0, t.jsx)(n.default, {
                                 // Here to change the portifolio photo
-                                src: "images/IMG_1229.JPG",
+                                src: "images/IMG_1229.jpg",
                                 alt: "Nawaf Alharbi",
                                 width: 60,
                                 height: 60,
